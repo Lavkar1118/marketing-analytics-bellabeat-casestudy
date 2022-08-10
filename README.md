@@ -72,5 +72,12 @@ Fairly active - Have either >15 minutes of very active minutes or >30 minutes of
 
 Insufficiently active - Have neither >15 minutes of very active minutes nor >30 minutes of moderate active minutes
 
-a. Understanding tracker usage frequency across the week
+**a. Understanding tracker usage frequency across the week**
 
+<img src="https://github.com/Lavkar1118/AB-Testing/blob/main/Assets/hist_diff.jpeg" width="525" height="550" />
+
+* Looks like comparatively less users wear tracker/track their daily activity between Friday - Monday.
+
+* It might be because people are engaging less in physical activities during weekend or people do not prefer to wear their tracker during weekends.
+
+**b. Calories metabolized vs Total steps**
