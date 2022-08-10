@@ -22,3 +22,11 @@ The founder has tasked us with analyzing usage data associated with competitive 
 
 [Fitbit Fitness Tracker Data](https://www.kaggle.com/datasets/arashnic/fitbit) a public domain dataset made available through [Mobius](https://www.kaggle.com/arashnic)
 was used in the analysis. It contains personal fitness tracker information from thrity fitbit users. Thirty eligible Fitbit users consented to the submission of personal tracker data, including minute-level output for physical activity, heart rate, and sleep monitoring. It includes information about daily activity, steps, and heart rate that can be used to explore user's habits
+
+**Data Cleaning and Manipulation**
+
+* Data pertaining to different activity metrics and daily and hourly data was available as individual tables.
+
+* Data preparation process invloved loading in the data, viewing the column names, reformatting the column names, checking to see if common attributes across different tables have similar data format and if there are any missing values
+
+* Most of the tables had 33 unique users, while sleep and weight data had 24 and 8 users respectively
