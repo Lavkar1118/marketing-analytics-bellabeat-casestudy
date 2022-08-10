@@ -15,4 +15,10 @@
 * **Bellabeat Membership** : A subscription-based program for users that provide 24/7 access to fully personalized guidance on nutriiton, activity, sleep, health and beauty, and mindfulness based on their lifestyle and goals
 
 **Business Task**
+
 The founder has tasked us with analyzing usage data associated with competitive smart devices such as fitbit in order to gain insight into how people are already using their smart devices. Then, we will use this information to derive recommendations to apply to one or more products and further also use these trends to inform Bellabeat marketing strategy
+
+**Data Sources**
+
+[Fitbit Fitness Tracker Data](https://www.kaggle.com/datasets/arashnic/fitbit) a public domain dataset made available through [Mobius](https://www.kaggle.com/arashnic)
+was used in the analysis. It contains personal fitness tracker information from thrity fitbit users. Thirty eligible Fitbit users consented to the submission of personal tracker data, including minute-level output for physical activity, heart rate, and sleep monitoring. It includes information about daily activity, steps, and heart rate that can be used to explore user's habits
