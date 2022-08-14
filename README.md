@@ -74,7 +74,7 @@ Insufficiently active - Have neither >15 minutes of very active minutes nor >30 
 
 **a. Understanding tracker usage frequency across the week**
 
-<img src="https://github.com/Lavkar1118/AB-Testing/blob/main/Assets/hist_diff.jpeg" width="525" height="550" />
+<img src="https://github.com/Lavkar1118/marketing-analytics-bellabeat-casestudy/blob/main/Assets/weekly_traker_usage.png" width="600" height="550" />
 
 * Looks like comparatively less users wear tracker/track their daily activity between Friday - Monday.
 
@@ -82,9 +82,13 @@ Insufficiently active - Have neither >15 minutes of very active minutes nor >30 
 
 **b. Calories metabolized vs Total steps**
 
-* Compared to daily steps, METs seems to be a more reliable metric to track the association between energy spent and caloeries burnt. Allowing people to set goals based on daily METs might seem like a more efficient method in getting people to be more active
+<img src="https://github.com/Lavkar1118/marketing-analytics-bellabeat-casestudy/blob/main/Assets/calories_vs_steps_n_METs.png" width="600" height="650" />
+
+* Compared to daily steps, METs seems to be a more reliable metric to track the association between energy spent and caloeries burnt. Allowing people to set everyday fitness level goals based on daily METs seems like a more efficient method in getting them to be more active
 
 **c. Sleep patterns and quality**
+
+<img src="https://github.com/Lavkar1118/marketing-analytics-bellabeat-casestudy/blob/main/Assets/sleep_quality.png" width="700" height="450" />
 
 * While only 50% of the sample seems to be well rested with atleast 7 hours of sleep, more  than 90% of the people are efficient sleepers and spend about 85%
 of their time on the bed asleep
@@ -95,12 +99,16 @@ of their time on the bed asleep
 
 **d. Sleep Latency**
 
+<img src="https://github.com/Lavkar1118/marketing-analytics-bellabeat-casestudy/blob/main/Assets/sleep_latency.png" width="600" height="450" />
+
 * This is defined as the time a person stays awake after going to bed, i.e the differnce between total time spend in bed and the time asleep. The average sleep latency period is between 10 - 20 minutes. A sleep latency of less than 8 minutes can be a sign of increased sleepiness and may be sign of tiredness from lack of sleep.
 
 * The average latency period in our sample is around 50 minutes and timely notifications can help people to focus on reducing the time spent using gadgets or limit other distractions that is keeping them awake
 
 
 **Sleep quality and Calories metabolized**
+
+<img src="https://github.com/Lavkar1118/marketing-analytics-bellabeat-casestudy/blob/main/Assets/calories_vs_activity.png" width="600" height="450" />
 
 * There seems to be a positive correlation between total time slept and calories burnt for those who are moderate or very active. And, an inverse relationship is observed among those are not sufficiently active
 
