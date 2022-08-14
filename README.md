@@ -81,3 +81,45 @@ Insufficiently active - Have neither >15 minutes of very active minutes nor >30 
 * It might be because people are engaging less in physical activities during weekend or people do not prefer to wear their tracker during weekends.
 
 **b. Calories metabolized vs Total steps**
+
+* Compared to daily steps, METs seems to be a more reliable metric to track the association between energy spent and caloeries burnt. Allowing people to set goals based on daily METs might seem like a more efficient method in getting people to be more active
+
+**c. Sleep patterns and quality**
+
+* While only 50% of the sample seems to be well rested with atleast 7 hours of sleep, more  than 90% of the people are efficient sleepers and spend about 85%
+of their time on the bed asleep
+
+* However, for those will less than 5 hours of sleep, efficiency does not matter as they are already poorly rested
+
+* Inconsistencies in sleep duration and quality can be addressed with custom designed notifications and help develop a healthy routine
+
+**d. Sleep Latency**
+
+* This is defined as the time a person stays awake after going to bed, i.e the differnce between total time spend in bed and the time asleep. The average sleep latency period is between 10 - 20 minutes. A sleep latency of less than 8 minutes can be a sign of increased sleepiness and may be sign of tiredness from lack of sleep.
+
+* The average latency period in our sample is around 50 minutes and timely notifications can help people to focus on reducing the time spent using gadgets or limit other distractions that is keeping them awake
+
+
+**Sleep quality and Calories metabolized**
+
+* There seems to be a positive correlation between total time slept and calories burnt for those who are moderate or very active. And, an inverse relationship is observed among those are not sufficiently active
+
+* This emphasizes the need to focus on both sleep and active minutes through out the day to attain a healthier lifestyle
+
+
+**Recommendations**
+
+Based on the analysis of Fitbit data, we have come with three recommendations in the form of design modificaitons to the tracker and the Bellabeat App to make it a more tech focused device and increase product growth via customer satisfaction
+
+* As the device usage reduces during weekends, Bellabeat can focus on making design improvements to ensure that the product is suited for both formal and casual attire, and can be worn all through the week. This can become a huge selling point for the device and can also increase interest among buyers. While this will allow users to track their progress in an uninteruppted manner, it will also increase the quantity and quality of data when Bellabeat intends to use them for future projects or quality assessments.
+
+* Bellabeat can work on including additional features to the Bellabeat App to provide more knowledge, and make users more familiarized about the various metrics that can be tracked using the device. This can then be followed by emphasizing the role of tracking daily METs over daily step count to track activity level and calories metabolized. The interface can even suggest users to set daily METs target if they have a planned fitness goal to achieve.
+
+* Sleep latency was an evident finding in our sample and given today's smart phone and social media use, its likely that its common in our population. So Bellabeat  can add design provisions to the device to make it play white noise or other soothing sounds to help users reduce sleep latency. Futher, the App can suggest customized sleep schedules based on user routine and inputs.
+
+**Other considerations**
+
+* While we did find some interesting trends in the data, its important to acknowledge that the data is very limited in quantity both in terms of number of participants (only 33 ) and the duration (1 month). Hence there can be potential variation or other trends if the same data was observed over a longer period of time
+
+* Another thing to note would be that, the data did not contain any demographic information such as age, sex etc. Generalizing a data without proper knowledge of the sample might lead to potential bias and the might not completely produce the intended effects from the sample to which the changes will be applied to.
+
